@@ -2,3 +2,4 @@ Physics
 Chemistry
 Biology
 Maths
+Astronomy
