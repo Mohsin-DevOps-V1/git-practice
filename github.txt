@@ -3,3 +3,8 @@ Im just a beginner
 I'm enjoying github
 Hello local from github!
 Learning git pull
+--------------------------->>
+A = 10
+B= 20
+print(A + B)
+--------------------------->>
