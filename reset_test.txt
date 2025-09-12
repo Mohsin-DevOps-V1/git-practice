@@ -1,3 +1,4 @@
 first dummy content
 Second dummy change
 third dummy line
+soft reset content
