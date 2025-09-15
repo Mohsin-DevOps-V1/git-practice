@@ -1,7 +1,7 @@
 def say_hello(name):
     """Greets a person using their name."""
-    messsage = f"Hello, {name}!"
-    print(messsage)
+    message = f"Hello, {name}!"
+    print(message)
 
 if __name__ == "__main__":
     user_name = "Alice"
