@@ -6,4 +6,6 @@ debug.log
 
 #ignore admins password
 passwords.txt
+
+#Ignore configs
 config.env
