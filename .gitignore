@@ -9,3 +9,6 @@ passwords.txt
 
 #Ignore configs
 config.env
+
+#Ignore PKCS certificate files
+my_cert.p12
